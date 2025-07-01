@@ -62,3 +62,6 @@ image_classifier_project/
 * Client-side image filtering or preview
 * Lightweight ML demo for interviews or GitHub portfolio
 
+  #output
+  ![Image](https://github.com/user-attachments/assets/15411aca-4979-4d48-a6ae-e05c201f5919)
+
