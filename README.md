@@ -1,17 +1,6 @@
 # Deep Learning Image Classifier
 
-*COMPANY NAME*: CODTECH IT SOLUTIONS
-
 *NAME*: STALLAN N PHILOS
-
-*INTER ID*:CT08DL10
-
-*DOMAIN*: DATA SCIENCE
-
-*DURATION*: 8 WEEKS
-
-*MENTOR*: NEELA SANTHOSH
-
 
 # Deep Learning Image Classifier :
 
